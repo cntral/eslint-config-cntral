@@ -32,9 +32,9 @@ You can overwrite any configuration as you see fit by just adding additional rul
 {
   "extends": "cntral",
   
-  "rules": [
+  "rules": {
     "no-unused-vars": [ "error", { "argsIgnorePattern": "^_" } ]
-  ]
+  }
 }
 ```
 
