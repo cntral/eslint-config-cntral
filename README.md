@@ -1,4 +1,4 @@
-# eslint-config-cntral
+# CNTRAL's ESLint Configuration
 
 ESLint configuration as preferred by the CNTRAL Family.
 
