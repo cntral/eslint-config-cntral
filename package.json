@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-cntral",
+  "version": "1.0.0",
+  "description": "ESLint configuration as preferred by the CNTRAL Family.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuapinter/eslint-config-cntral.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslintconfig",
+    "cntral",
+    "cntralinc"
+  ],
+  "author": "Joshua Pinter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuapinter/eslint-config-cntral/issues"
+  },
+  "homepage": "https://github.com/joshuapinter/eslint-config-cntral#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
