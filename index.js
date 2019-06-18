@@ -47,7 +47,7 @@ module.exports = {
     "dot-notation":                   [ "warn" ],
     "func-call-spacing":              [ "warn", "never" ],
     "func-name-matching":             [ "error", "always" ],
-    "indent":                         [ "warn", 2, { "SwitchCase": 1, "MemberExpression": false } ],
+    "indent":                         [ "warn", 2, { "SwitchCase": 1, "MemberExpression": "off" } ],
     "jsx-quotes":                     [ "warn", "prefer-double" ],
     "key-spacing":                    [ "warn", { "align": "value" } ],
     "linebreak-style":                [ "error", "unix" ],
