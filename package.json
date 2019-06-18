@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/joshuapinter/eslint-config-cntral#readme",
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 5"
   }
 }
