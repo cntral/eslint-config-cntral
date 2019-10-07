@@ -58,6 +58,7 @@ module.exports = {
     "no-unused-vars":                 [ "error", { "argsIgnorePattern": "^_" } ], // Ignore "_variable".
     "no-useless-rename":              [ "error" ],
     "no-var":                         [ "error" ],
+    "no-warning-comments":            [ "warn", { "terms": [ "fixme" ], "location": "anywhere" } ],
     "no-whitespace-before-property":  [ "warn" ],
     "object-curly-spacing":           [ "warn", "always" ],
     "prefer-const":                   [ "error" ],
