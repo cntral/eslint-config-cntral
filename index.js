@@ -58,6 +58,7 @@ module.exports = {
     "no-unused-vars":                 [ "error", { "argsIgnorePattern": "^_" } ], // Ignore "_variable".
     "no-useless-rename":              [ "error" ],
     "no-var":                         [ "error" ],
+    // "no-warning-comments":            [ "error", { "terms": [ "fixme" ], "location": "anywhere" } ], // NOTE: Testing this in specific cntral_mobile branch first before making it a standard.
     "no-whitespace-before-property":  [ "warn" ],
     "object-curly-spacing":           [ "warn", "always" ],
     "prefer-const":                   [ "error" ],
