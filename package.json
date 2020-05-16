@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-cntral",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "ESLint configuration as preferred by the CNTRAL Family.",
   "main": "index.js",
   "scripts": {
