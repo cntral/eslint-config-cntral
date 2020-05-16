@@ -54,7 +54,7 @@ module.exports = {
     "lines-between-class-members":    [ "warn", "always", { "exceptAfterSingleLine": true } ],
     "multiline-comment-style":        [ "warn", "separate-lines" ],
     "no-duplicate-imports":           [ "error" ],
-    "no-trailing-spaces":             [ "warn", { "skipBlankLines": true, "ignoreComments": true } ],
+    "no-trailing-spaces":             [ "warn", { "ignoreComments": true } ],
     "no-unused-vars":                 [ "error", { "argsIgnorePattern": "^_" } ], // Ignore "_variable".
     "no-useless-rename":              [ "error" ],
     "no-var":                         [ "error" ],
