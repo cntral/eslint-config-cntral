@@ -81,7 +81,7 @@ module.exports = {
     "react/jsx-indent-props":             [ "warn", 2 ],
     "react/jsx-max-props-per-line":       [ "warn", { "maximum": 1, "when": "multiline" } ],
     "react/jsx-no-duplicate-props":       [ "error" ],
-    "react/jsx-tag-spacing":              [ "warn", { "closingSlash": "never", "beforeSelfClosing": "always", "afterOpening": "never", "beforeClosing": "allow" } ],
+    "react/jsx-tag-spacing":              [ "warn", { "closingSlash": "never", "beforeSelfClosing": "always", "afterOpening": "never", "beforeClosing": "never" } ],
     "react/jsx-closing-tag-location":     [ "warn" ],
     "react/jsx-indent":                   [ "warn", 2 ],
     "react/no-unescaped-entities":        "off"
