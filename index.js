@@ -45,6 +45,7 @@ module.exports = {
     "default-case":                       [ "error" ],
     "dot-location":                       [ "warn", "property" ],
     "dot-notation":                       [ "warn" ],
+    "eol-last":                           [ "warn", "always" ],
     "func-call-spacing":                  [ "warn", "never" ],
     "func-name-matching":                 [ "error", "always" ],
     "indent":                             [ "warn", 2, { "SwitchCase": 1, "MemberExpression": "off" } ],
