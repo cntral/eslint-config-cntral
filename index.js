@@ -13,7 +13,7 @@ module.exports = {
     "plugin:react/recommended"
   ],
 
-  "parser": "babel-eslint",
+  "parser": "@babel/eslint-parser",
 
   "parserOptions": {
     "ecmaFeatures": {
