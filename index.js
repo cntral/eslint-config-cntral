@@ -54,6 +54,7 @@ module.exports = {
     "linebreak-style":                    [ "error", "unix" ],
     "lines-between-class-members":        [ "warn", "always", { "exceptAfterSingleLine": true } ],
     "multiline-comment-style":            [ "warn", "separate-lines" ],
+    "no-console":                         [ "error" ],
     "no-duplicate-imports":               [ "error" ],
     "no-trailing-spaces":                 [ "warn", { "ignoreComments": true } ],
     "no-unused-vars":                     [ "error", { "argsIgnorePattern": "^_" } ], // Ignore "_variable".
