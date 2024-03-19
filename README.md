@@ -39,3 +39,16 @@ You can overwrite any configuration as you see fit by just adding additional rul
 ```
 
 
+## Publishing New Versions to npm.
+
+You need to publish new versions to npm by doing the following:
+
+1. Ensure `main` is updated with all desired changes and you have a clean working directory.
+
+2. Bump the version with `npm version <major|minor|patch>`.
+
+3. Publish to npm with `npm publish`.
+
+4. Push your changes and make sure you push up the tags with `git push && git push --tags`.
+
+5. Dance!
